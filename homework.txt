@@ -1,3 +1,4 @@
+master updated for conflict
 ﻿this is a new sentence.
 
 this is a newer sentence.
