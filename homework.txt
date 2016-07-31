@@ -1,4 +1,6 @@
-﻿master updated for conflict
+﻿this is test for pull request
+
+master updated for conflict
 ﻿this is a new sentence.
 
 this is a newer sentence.
